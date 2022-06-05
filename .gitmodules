@@ -2,3 +2,7 @@
 	path = sv-api
 	url = git@github.com:ncn-ends/sv-api.git
 	branch = master
+[submodule "sv-scraper"]
+	path = sv-scraper
+	url = git@github.com:ncn-ends/sv-scraper.git
+	branch = master
