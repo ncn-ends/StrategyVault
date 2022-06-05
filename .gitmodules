@@ -1,0 +1,4 @@
+[submodule "sv-api"]
+	path = sv-api
+	url = git@github.com:ncn-ends/sv-api.git
+	branch = master
