@@ -2,9 +2,23 @@
 
 # StrategyVault
 
+## Introduction  
+  
+StrategyVault is the core infrastructure for a network of web apps meant to offer an information database and set of tools to help players learn and share their knowledge.  
+A few examples of features:  
+- Builder
+	- Submit your builds for other players to explore, or make it private / unlisted.
+- Build Search
+	- Easily explore builds other players have submitted in an intuitive and powerful search engine.
+- Unit Comparison
+	- Compare how units would perform in a battle simulator.
+- Replay Repository
+	- Upload your replays to share with others and attach to builds or comments.
+
 ## Getting Started (Development)
 
-- View the individual submodule directories to set up each portion of the project.
+- View the individual submodule directories to set up each portion of the project.  
+  
 Client: https://github.com/ncn-ends/sv-client  
 Back end (Web API): https://github.com/ncn-ends/sv-api  
 Scraper: https://github.com/ncn-ends/sv-scraper  
