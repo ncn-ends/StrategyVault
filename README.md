@@ -41,6 +41,7 @@ A few examples of features:
 
 #### Stage 3: Polish
 - Removing 3rd party component library
+- Create space for ads in the UI
 - Add designer to the team to create a modern aesthetic
 - Further expand testing have wide coverage, in particular for UI testing
 - Add more transitions, especially page transitions

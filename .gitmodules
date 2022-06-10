@@ -6,3 +6,7 @@
 	path = sv-scraper
 	url = git@github.com:ncn-ends/sv-scraper.git
 	branch = master
+[submodule "sv-client"]
+	path = sv-client
+	url = git@github.com:ncn-ends/sv-client.git
+	branch = master
