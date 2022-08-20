@@ -17,9 +17,9 @@ A few examples of features:
 	- Upload your replays to share with others and attach to builds or comments.  
   
 ## Roadmap
-
-(wip)
-
+  
+**Current: Stage 2**  
+  
 #### Stage 1: POC
 - Account creation via Auth0  
 - Account page
